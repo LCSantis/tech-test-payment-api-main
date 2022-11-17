@@ -8,8 +8,8 @@ namespace tech_test_payment_api_main.Entities
     public class Venda
     {
         public int Id { get; set; }
-        public DateTime Data { get; set; }
-        public int IdPedido { get; set; }
+        public string Vendedor { get; set; }
         public string Itens { get; set; }
+        public string Status { get; set; }
     }
 }
