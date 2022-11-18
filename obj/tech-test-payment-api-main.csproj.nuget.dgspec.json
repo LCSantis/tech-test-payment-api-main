@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\tech-test-payment-api-main\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj": {}
+    "C:\\Users\\6110900\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\tech-test-payment-api-main\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj": {
+    "C:\\Users\\6110900\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\tech-test-payment-api-main\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj",
+        "projectUniqueName": "C:\\Users\\6110900\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj",
         "projectName": "tech-test-payment-api-main",
-        "projectPath": "C:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\tech-test-payment-api-main\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj",
+        "projectPath": "C:\\Users\\6110900\\Downloads\\tech-test-payment-api-main\\tech-test-payment-api-main.csproj",
         "packagesPath": "C:\\Users\\6110900\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\tech-test-payment-api-main\\tech-test-payment-api-main\\obj\\",
+        "outputPath": "C:\\Users\\6110900\\Downloads\\tech-test-payment-api-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6110900\\AppData\\Roaming\\NuGet\\NuGet.Config"
